@@ -1,0 +1,28 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+!local.properties.example
+/.idea
+.agents/
+.DS_Store
+/build/
+/captures
+.externalNativeBuild
+.cxx
+app/build/
+app/src/main/unused-image-copy/
+
+# Credenciales y firmas
+.env
+.env.*
+!.env.example
+key.properties
+keystore.properties
+*.jks
+*.keystore
+*.p12
+
+# Binarios generados con posibles credenciales locales
+*.apk
+*.aab

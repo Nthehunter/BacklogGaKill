@@ -1,0 +1,8 @@
+# Android Studio suele añadir sdk.dir automáticamente a local.properties.
+# Completa solo los servicios que quieras utilizar y nunca pongas secretos reales aquí.
+
+rawg.api.key=
+thegamesdb.api.key=
+steam.api.key=
+steam.id=
+psn.npsso=
