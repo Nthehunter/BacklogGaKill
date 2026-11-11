@@ -8,6 +8,20 @@ El diseño recupera la identidad visual de
 [HuntTheGame](https://github.com/Nthehunter/HuntTheGame), mi proyecto anterior:
 fondos estrellados, tarjetas oscuras y una interfaz centrada en la colección.
 
+## Capturas
+
+<p align="center">
+  <img src="docs/screenshots/inicio.png" alt="Pantalla de inicio" width="19%" />
+  <img src="docs/screenshots/biblioteca.png" alt="Biblioteca y filtros" width="19%" />
+  <img src="docs/screenshots/deseos.png" alt="Lista de deseos" width="19%" />
+  <img src="docs/screenshots/logros.png" alt="Platinos y logros" width="19%" />
+  <img src="docs/screenshots/resumen.png" alt="Resumen y estadísticas" width="19%" />
+</p>
+
+<p align="center">
+  <sub>Inicio · Biblioteca · Deseos · Logros · Resumen</sub>
+</p>
+
 ## Funciones
 
 - Biblioteca, lista de deseos y perfil local.
